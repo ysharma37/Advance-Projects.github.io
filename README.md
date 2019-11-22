@@ -1,18 +1,15 @@
 # TheHungryRecipes
 A food recipes website with clean user interface powered by TheMealDB free API
 
-[![GitHub license](https://img.shields.io/github/license/NitinNair89/TheHungryRecipes)](https://github.com/NitinNair89/TheHungryRecipes/blob/master/LICENSE) &nbsp;
-[![GitHub issues](https://img.shields.io/github/issues/NitinNair89/TheHungryRecipes)](https://github.com/NitinNair89/TheHungryRecipes/issues) &nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/NitinNair89/TheHungryRecipes)](https://github.com/NitinNair89/TheHungryRecipes/stargazers) &nbsp;
-[![GitHub forks](https://img.shields.io/github/forks/NitinNair89/TheHungryRecipes)](https://github.com/NitinNair89/TheHungryRecipes/network) &nbsp;
-[![GitHub contributors](https://img.shields.io/github/contributors/NitinNair89/TheHungryRecipes)](https://github.com/NitinNair89/TheHungryRecipes/graphs/contributors)
+The hungry recipies is a websiste developed by me, is used to help you obtain recipies of you favourite dishes.
 
-Link: https://nitinnair89.github.io/TheHungryRecipes/
+A website by Yashassvi Sharma.
+
 
 TheMealDB: https://www.themealdb.com/
 
----
-
-**Tech stack:**
-
-HTML5, Skeleton CSS Library (http://getskeleton.com/), JavaScript
+# API 
+https://www.themealdb.com/api/json/v1/1/list.php?c=list
+https://www.themealdb.com/api/json/v1/1/lookup.php?i=
+https://www.themealdb.com/api/json/v1/1/random.php
+https://www.themealdb.com/api/json/v1/1/search.php?s=
